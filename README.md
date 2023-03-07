@@ -5,4 +5,4 @@
 - 📫 E-mail para contato: guilherme_dev@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeHSP)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
