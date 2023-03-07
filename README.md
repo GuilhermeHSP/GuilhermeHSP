@@ -4,3 +4,5 @@
 - 🌱 Estou estudando Python, no qual me identifiquei bastante
 - 📫 E-mail para contato: guilherme_dev@hotmail.com
 - 😄 Pronomes: Ele/Dele
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiGuilhermeHSPanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
