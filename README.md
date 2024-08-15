@@ -1,7 +1,7 @@
-### Oii, meu nome é Guilherme! 👋
+### Olá, meu nome é Guilherme! 👋
 
 - 🔭 Atualmente buscando uma vaga como Desenvolvedor Júnior
-- 🌱 Estou estudando Python, no qual me identifiquei bastante
+- 🌱 Buscando sempre aprimorar meus conceitos e lógica de programação com foco em Java
 - 📫 E-mail para contato: guilherme_dev@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
